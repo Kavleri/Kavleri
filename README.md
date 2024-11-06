@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/muhammad-hisyam-alfaris-529465332?)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp)](https://wa.me/6285691753134)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr)](https://www.instagram.com/drag_his/profilecard)
-(![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Ris Syam)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Ris_Syam)
 ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python&style=flat)
