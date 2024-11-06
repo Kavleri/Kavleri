@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nama_pengguna&theme=dark" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavleri&theme=dark" alt="GitHub Streak" />
 </p>
 
 ### GitHub Trophies:
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=nama_pengguna&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=Kavleri&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 - 👋 Hi, I’m @Kavleri
