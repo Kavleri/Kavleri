@@ -92,7 +92,6 @@ You can click the Preview link to take a look at your changes.
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Ris_Syam)
 
 
-
    #⚔️ Movie Favorite
 
 <p align="center">
