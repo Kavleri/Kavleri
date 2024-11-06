@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavleri&layout=compact&theme=radical)
 
 ![GitHub followers](https://img.shields.io/github/followers/Kavleri?label=Kavleri&style=social)
-[![Email](https://img.shields.io/badge/Email-emailkamu%40example.com-blue?logo=gmail&logoColor=white)](mailto:muhammadhisyamalfaris2085@gmail.com)
+[![Email](https://img.shields.io/badge/Email-emailsaya%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:muhammadhisyamalfaris2085@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/muhammad-hisyam-alfaris-529465332?)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp)](https://wa.me/6285691753134)
 ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python&style=flat)
