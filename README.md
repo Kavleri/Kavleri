@@ -25,6 +25,8 @@
    <img src="https://github-profile-trophy.vercel.app/?username=Kavleri&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
+
+### Tentang Saya
 - 👋 Hi, I’m @Kavleri
 - 👀 I’m interested in Web Development, Open Source, and Cyber Security
 - 🌱 I’m currently learning Machine Learning, Frontend Deveopment, Backend Development, and Cyber Security.
@@ -35,7 +37,6 @@
 Kavleri/Muhammad Hisyam Alfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-### Tentang Saya
 [![Email](https://img.shields.io/badge/Email-emailsaya%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:muhammadhisyamalfaris2085@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/muhammad-hisyam-alfaris-529465332?)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp)](https://wa.me/6285691753134)
