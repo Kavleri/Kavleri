@@ -56,9 +56,13 @@
 
 
 # 🔥 Random Dev Quote
-> "Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple."
+> "The art challenges the technology, and the technology inspires the art."
 >
-> — Danny Hillis
+> — John Lasseter
+>
+> "Just because something doesn’t do what you planned it to do doesn’t mean it’s useless."
+>
+> – Thomas Edison
 
 
 Kavleri/Muhammad Hisyam Alfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
