@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hisyam!
 
-### GitHub Stats:
+# GitHub Stats:
 
 
 <p align="center">
