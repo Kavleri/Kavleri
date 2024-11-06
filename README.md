@@ -76,11 +76,11 @@ You can click the Preview link to take a look at your changes.
 
 | Repository       | Status |
 |------------------|--------|
-| 🟢 **Learning-place**     | 🅱️ |
-| 🟢 **latkom-cashier**     | 🅱️ |
-| 🟢 **EJ-Monitoring-Backend** | 🅱️ |
-| 🟢 **tabungan**           | 🅱️ |
-| 🟢 **DDP-Python-Youtube** | 🅱️ |
+| 🟢 **Laravel**     | 🅱️ |
+| 🟢 **PHP**     | 🅱️ |
+| 🟢 **CSS3** | 🅱️ |
+| 🟢 **HTML5**           | 🅱️ |
+| 🟢 **Python** | 🅱️ |
 
 
 # 🌐 Media Social
