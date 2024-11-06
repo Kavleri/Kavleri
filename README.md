@@ -1,6 +1,7 @@
 # Hi 👋, I'm Hisyam!
 
 ### GitHub Stats:
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Kavleri&show_icons=true&theme=dark" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavleri&layout=compact&theme=dark" alt="Top Langs" />
@@ -11,6 +12,7 @@
 </p>
 
 ### GitHub Trophies:
+
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Kavleri&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
 </p>
@@ -21,9 +23,9 @@
 - 💞️ I’m looking to collaborate on open source projects related to web development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to explore and understand how the cyber world works. Apart from that, I love coffee and coding late at night!
-<p align="center">
+
  ### 💻 Languages and Tools
-</p>
+
 <p align="center">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
