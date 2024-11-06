@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hisyam!
 
-# GitHub Stats:
+# GitHub Stats
 
 
 <p align="center">
@@ -12,7 +12,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavleri&theme=dark" alt="GitHub Streak" />
 </p>
 
-### GitHub Trophies:
+# GitHub Trophies
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Kavleri&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
@@ -25,7 +25,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to explore and understand how the cyber world works. Apart from that, I love coffee and coding late at night!
 
- ### 💻 Languages and Tools
+ # 💻 Languages and Tools
 
 <p align="center">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -50,7 +50,7 @@
 
 </p>
 
-### 🔥 Random Dev Quote
+# 🔥 Random Dev Quote
 > "Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple."
 >
 > — Danny Hillis
@@ -59,9 +59,9 @@
 Kavleri/Muhammad Hisyam Alfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 
-**Kamachiii's GitHub Contributor Stats**
+**Kavleri's GitHub Contributor Stats**
 
 | Repository       | Status |
 |------------------|--------|
@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 | 🟢 **tabungan**           | 🅱️ |
 | 🟢 **DDP-Python-Youtube** | 🅱️ |
 
-### 🌐 Media Social
+# 🌐 Media Social
 
 [![Email](https://img.shields.io/badge/Email-emailsaya%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:muhammadhisyamalfaris2085@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/muhammad-hisyam-alfaris-529465332?)
