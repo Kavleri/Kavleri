@@ -46,8 +46,27 @@
 
 </p>
 
+### 🔥 Random Dev Quote
+> "Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple."
+>
+> — Danny Hillis
+
+
 Kavleri/Muhammad Hisyam Alfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+### 🔝 Top Contributed Repo
+
+**Kamachiii's GitHub Contributor Stats**
+
+| Repository       | Status |
+|------------------|--------|
+| 🟢 **Learning-place**     | 🅱️ |
+| 🟢 **latkom-cashier**     | 🅱️ |
+| 🟢 **EJ-Monitoring-Backend** | 🅱️ |
+| 🟢 **tabungan**           | 🅱️ |
+| 🟢 **DDP-Python-Youtube** | 🅱️ |
+
 
 [![Email](https://img.shields.io/badge/Email-emailsaya%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:muhammadhisyamalfaris2085@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/muhammad-hisyam-alfaris-529465332?)
