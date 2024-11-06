@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr)](https://www.instagram.com/drag_his/profilecard)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Ris_Syam)
 
-![Demon Slayer Fan](https://img.shields.io/badge/Demon_Slayer-Enthusiast-red?style=for-the-badge&logo=fire&logoColor=white)
+![Demon Slayer](https://img.shields.io/badge/Anime-Demon_Slayer-red?style=for-the-badge&logo=fire&logoColor=white)
 
 Ini adalah avatar saya bergaya anime yang terinspirasi dari *Demon Slayer*.
