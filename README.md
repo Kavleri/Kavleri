@@ -1,3 +1,30 @@
+# Hi 👋, I'm Hisyam Anda!
+
+### Tech Stack:
+<p align="center">
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+   <!-- Tambahkan ikon lain sesuai kebutuhan -->
+</p>
+
+### GitHub Stats:
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=nama_pengguna&show_icons=true&theme=dark" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nama_pengguna&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nama_pengguna&theme=dark" alt="GitHub Streak" />
+</p>
+
+### GitHub Trophies:
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=nama_pengguna&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 - 👋 Hi, I’m @Kavleri
 - 👀 I’m interested in Web Development, Open Source, and Cyber Security
 - 🌱 I’m currently learning Machine Learning, Frontend Deveopment, Backend Development, and Cyber Security.
