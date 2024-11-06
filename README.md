@@ -12,7 +12,7 @@
 
 ### GitHub Stats:
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nama_pengguna&show_icons=true&theme=dark" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Kavleri&show_icons=true&theme=dark" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nama_pengguna&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
