@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Ris_Syam)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kavleri/Gambar/main/Demon-slayer-tanpa-background.png" alt="Demon Slayer Avatar" width="150" />
+  <img src="https://raw.githubusercontent.com/Kavleri/Gambar/main/Demon-slayer-tanpa-background.png" alt="Demon Slayer Avatar" width="1000" />
 </p>
 
 Ini adalah avatar saya bergaya anime yang terinspirasi dari *Demon Slayer*.
