@@ -1,8 +1,4 @@
-# Hi 👋, I'm Hisyam Anda!
-
-### 
-🐍 Python | ☕ Java | 💻 C++ |  JavaScript | 🔷 TypeScript
-
+# Hi 👋, I'm Hisyam!
 
 ### GitHub Stats:
 <p align="center">
@@ -19,9 +15,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=Kavleri&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-
-### Tentang Saya
-- 👋 Hi, I’m @Kavleri
+### About Me :
 - 👀 I’m interested in Web Development, Open Source, and Cyber Security
 - 🌱 I’m currently learning Machine Learning, Frontend Deveopment, Backend Development, and Cyber Security.
 - 💞️ I’m looking to collaborate on open source projects related to web development.
