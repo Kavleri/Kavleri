@@ -1,5 +1,5 @@
 # Hi 👋, I'm Muhammad Hisyam Alfaris!
-## I am an undergraduate student from Cibinong, Indonesia. I am a Nurul Fikri Integrated Undergraduate student in 2024 majoring in information technology, I like learning about Web Development, Open Source and Cyber ​​Security.
+<h2 align="center">I am an undergraduate student from Cibinong, Indonesia. I am a Nurul Fikri Integrated Undergraduate student in 2024 majoring in information technology, I like learning about Web Development, Open Source and Cyber ​​Security.</h2>
 
 ### About Me :
 - 👀 I’m interested in Web Development, Open Source, and Cyber Security
