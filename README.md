@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr)](https://www.instagram.com/drag_his/profilecard)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Ris_Syam)
 ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python&style=flat)
-![GitHub License](https://img.shields.io/github/license/:user/:repo)
+[![GitHub License](https://img.shields.io/github/license/:user/:repo)](https://img.shields.io/github/license/:user/:repo)
