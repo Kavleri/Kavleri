@@ -1,5 +1,12 @@
 # Hi 👋, I'm Hisyam!
 
+### About Me :
+- 👀 I’m interested in Web Development, Open Source, and Cyber Security
+- 🌱 I’m currently learning Machine Learning, Frontend Deveopment, Backend Development, and Cyber Security.
+- 💞️ I’m looking to collaborate on open source projects related to web development.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to explore and understand how the cyber world works. Apart from that, I love coffee and coding late at night!
+
 # GitHub Stats
 
 
@@ -18,12 +25,6 @@
    <img src="https://github-profile-trophy.vercel.app/?username=Kavleri&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-### About Me :
-- 👀 I’m interested in Web Development, Open Source, and Cyber Security
-- 🌱 I’m currently learning Machine Learning, Frontend Deveopment, Backend Development, and Cyber Security.
-- 💞️ I’m looking to collaborate on open source projects related to web development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to explore and understand how the cyber world works. Apart from that, I love coffee and coding late at night!
 
  # 💻 Languages and Tools
 
