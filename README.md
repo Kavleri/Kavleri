@@ -18,7 +18,8 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavleri&theme=dark" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavleri&theme=dark" alt="GitHub Streak" /><i class="fab fa-laravel"></i> Laravel
+
 </p>
 
 
