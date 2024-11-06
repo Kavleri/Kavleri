@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to explore and understand how the cyber world works. Apart from that, I love coffee and coding late at night!
 
+
 # GitHub Stats
 
 
@@ -19,6 +20,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavleri&theme=dark" alt="GitHub Streak" />
 </p>
 
+
 # GitHub Trophies
 
 <p align="center">
@@ -26,7 +28,7 @@
 </p>
 
 
- # 💻 Languages and Tools
+# 💻 Languages and Tools
 
 <p align="center">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,6 +53,7 @@
 
 </p>
 
+
 # 🔥 Random Dev Quote
 > "Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple."
 >
@@ -59,6 +62,7 @@
 
 Kavleri/Muhammad Hisyam Alfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 
 # 🔝 Top Contributed Repo
 
@@ -71,6 +75,7 @@ You can click the Preview link to take a look at your changes.
 | 🟢 **EJ-Monitoring-Backend** | 🅱️ |
 | 🟢 **tabungan**           | 🅱️ |
 | 🟢 **DDP-Python-Youtube** | 🅱️ |
+
 
 # 🌐 Media Social
 
