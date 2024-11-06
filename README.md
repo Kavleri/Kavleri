@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hisyam!
 
 ### GitHub Stats:
-
+\n
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Kavleri&show_icons=true&theme=dark" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavleri&layout=compact&theme=dark" alt="Top Langs" />
