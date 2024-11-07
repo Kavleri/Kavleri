@@ -41,7 +41,6 @@
    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)"/>
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
@@ -98,4 +97,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/Kavleri/Gambar/main/Demon-slayer-tanpa-background.png" alt="Demon Slayer Avatar" width="1000" />
 </p>
 
-Ini adalah avatar saya bergaya anime yang terinspirasi dari *Demon Slayer*.
+This is a picture from an anime movie My favorite is *Demon Slayer*.
