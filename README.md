@@ -20,7 +20,7 @@
 # GitHub Metrics (The Powerful Stats)
 
 <p align="center">
-    <img src="https://github.com/Kavleri/Kavleri/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="https://raw.githubusercontent.com/Kavleri/Kavleri/main/github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
 # GitHub Streak
