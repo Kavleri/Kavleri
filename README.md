@@ -17,26 +17,19 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr)](https://www.instagram.com/drag_his/profilecard)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Ris_Syam)
 
-# GitHub Stats
+# GitHub Metrics (The Powerful Stats)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kavleri&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavleri&layout=compact&theme=dark" alt="Top Langs" />
+    <img src="https://github.com/Kavleri/Kavleri/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </p>
+
+# GitHub Streak
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavleri&theme=dark" alt="GitHub Streak" />
     <br/>
     <i class="fab fa-laravel"></i> Laravel
 </p>
-
-
-# GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kavleri&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 
 # 💻 Languages and Tools
 
@@ -60,7 +53,6 @@
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-
 # 🔥 Random Dev Quote
 > "The art challenges the technology, and the technology inspires the art."
 >
@@ -70,10 +62,8 @@
 >
 > – Thomas Edison
 
-
 Kavleri/Muhammad Hisyam Alfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
 
 # 🔝 Top Contributed Repo
 
@@ -86,7 +76,6 @@ You can click the Preview link to take a look at your changes.
 | 🟢 **CSS3** | 🅰️ |
 | 🟢 **HTML5**           | 🅰️ |
 | 🟢 **Python** | 🅰️ |
-
 
 <h2 align="center">⚔️ Movie Favorite</h2>
 
