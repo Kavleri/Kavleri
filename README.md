@@ -76,6 +76,10 @@ You can click the Preview link to take a look at your changes.
 | 🟢 **CSS3** | 🅰️ |
 | 🟢 **HTML5**           | 🅰️ |
 | 🟢 **Python** | 🅰️ |
+| 🟢 **React**     | 🅰️ |
+| 🟢 **Golang**     | 🅰️ |
+| 🟢 **MySQL**     | 🅰️ |
+| 🟢 **PostgreSQL**     | 🅰️ |
 
 <h2 align="center">⚔️ Movie Favorite</h2>
 
