@@ -1,9 +1,9 @@
 # Hi 👋, I'm Muhammad Hisyam Alfaris!
 
-<h2 align="center">I am an undergraduate student from Cibinong, Indonesia. I am a Nurul Fikri Integrated Undergraduate student in 2024 majoring in information technology, I like learning about Web Development, Open Source and Cyber ​​Security.</h2>
+<h2 align="center">I am an undergraduate student from Cibinong, Indonesia. I am a Nurul Fikri Integrated Undergraduate student in 2024 majoring in information technology, I like learning about Web Development, Open Source, AI Integration and Cyber ​​Security.</h2>
 
 ### About Me :
-- 👀 I’m interested in Web Development, Open Source, and Cyber Security
+- 👀 I’m interested in Web Development, Open Source, AI Integration, and Cyber Security
 - 🌱 I’m currently learning Machine Learning, Frontend Deveopment, Backend Development, and Cyber Security.
 - 💞️ I’m looking to collaborate on open source projects related to web development.
 - 😄 Pronouns: He/Him
